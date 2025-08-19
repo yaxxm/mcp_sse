@@ -391,7 +391,7 @@ def check_publish_data(game_id=None, punish_time:str=None, scheme_id=None, statu
                 'col_conds': col_conds,
                 'custom_col_datas': '[]',
                 'row_conds': '[]',
-                'token': '7b14d4958ffb2c2845f98ce9a19e23a1',
+                'token': 'your_token',
                 'factor_conds': '[]',
                 'table_name': '不告诉你_*',
                 'order_conds': '["log_time","DESC",0,"NoComment"]',
@@ -564,7 +564,7 @@ def get_daily_scheme_hits(game_id: str = None, scheme_id: str = None, punish_tim
                     'col_conds': col_conds,
                     'custom_col_datas': '[]',
                     'row_conds': '[]',
-                    'token': '7b14d4958ffb2c2845f98ce9a19e23a1',
+                    'token': 'your_token',
                     'factor_conds': '[]',
                     'table_name': '不告诉你_*',
                     'order_conds': '["log_time","DESC",0,"NoComment"]',
@@ -690,7 +690,7 @@ def check_account_publish_data(game_id:str=None, punish_time:str=None, scheme_id
         'col_conds': '[]',
         'custom_col_datas': '[]',
         'row_conds': '[]',
-        'token': '7b14d4958ffb2c2845f98ce9a19e23a1',
+        'token': 'your_token',
         'factor_conds': '[]',
         'table_name': '不告诉你_*',
         'order_conds': '["log_time","DESC",0,"NoComment"]',
@@ -801,3 +801,4 @@ if __name__ == "__main__":
 # # def get_daily_scheme_hits(game_id: str = None, scheme_id: str = None, punish_time: str = None, status: str = None, count_type: str = "条"):
 # print(get_daily_scheme_hits(game_id='2577', punish_time='2025.8.12-2025.8.13',scheme_id='170606',count_type='条',status='全量'))
 # print(get_daily_scheme_hits(game_id='2577', punish_time='2025.8.12-2025.8.13',scheme_id='170606',count_type='账号',status='全量'))
+
