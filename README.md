@@ -4,7 +4,7 @@
 
 这是一个基于 MCP (Model Context Protocol) 的策略处罚数据查询系统，支持 SSE (Server-Sent Events) 实时通信。该系统可以查询游戏策略的处罚数据，包括命中量统计、每日命中趋势、具体账单信息等。
 
-**作者**: 姚明俊 (mingjunyao)
+**作者**: 不告诉你
 
 ## 主要功能
 
@@ -187,5 +187,5 @@ get_game_id_by_name(game_name='XXXX')
 
 ---
 
-**联系方式**: mingjunyao
+**联系方式**: 不告诉你
 **最后更新**: 2025 年
