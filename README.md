@@ -119,7 +119,7 @@ get_scheme_bills(
 
 ```python
 get_game_name_by_id(game_id='2577')
-get_game_id_by_name(game_name='王者荣耀')
+get_game_id_by_name(game_name='XXXX')
 ```
 
 ### 支持的时间格式
